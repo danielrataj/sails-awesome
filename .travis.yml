@@ -1,0 +1,25 @@
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#   ╔╦╗╦═╗╔═╗╦  ╦╦╔═╗ ┬ ┬┌┬┐┬                           #
+#    ║ ╠╦╝╠═╣╚╗╔╝║╚═╗ └┬┘││││                           #
+#  o ╩ ╩╚═╩ ╩ ╚╝ ╩╚═╝o ┴ ┴ ┴┴─┘                         #
+#                                                       #
+# This file configures Travis CI.                       #
+# (i.e. how we run the tests... mainly)                 #
+#                                                       #
+# https://docs.travis-ci.com/user/customizing-the-build #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+language: ruby
+
+rvm:
+  - 2.2
+
+branches:
+  only:
+    - master
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md --allow-redirect -w vimeo.com,udemy.com
