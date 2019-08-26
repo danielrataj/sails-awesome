@@ -1,6 +1,6 @@
 ## Awesome Sails [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/mallgroup/sails-awesome.svg?branch=master)](https://travis-ci.org/mallgroup/sails-awesome)
 
-A collection of awesome things regarding [Sails](https://sailsjs.com) framework.
+A collection of awesome things regarding [Sails](https://sailsjs.com) 1.0 framework.
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
@@ -32,6 +32,7 @@ A collection of awesome things regarding [Sails](https://sailsjs.com) framework.
   - [Cron](https://github.com/ghaiklor/sails-hook-cron) - Sails hook for running cron tasks
   - [JSON Web Token](https://github.com/robophil/sails-hook-jsonwebtoken) - A sails hook for easily working with jsonwebtoken https://github.com/auth0/node-jsonwebtoken
   - [Autoreload](https://github.com/sgress454/sails-hook-autoreload) - Sails JS hook to autoreload controllers and models when changed.
+  - [Micro Apps](https://github.com/emahuni/sails-util-micro-apps) - Inject self-contained Micro-Apps into your Sails App using a hook. Each micro-app is a mini sails app that you can develop decoupled from your main apps, which you then inject using this util.
 
 ---
 
