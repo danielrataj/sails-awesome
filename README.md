@@ -8,7 +8,6 @@ A collection of awesome things regarding [Sails](https://sailsjs.com) 1.0 framew
     - [Free](#free)
     - [Commercial](#commercial)
   - [Hooks](#hooks)
-  - [- Micro Apps - Inject self-contained Micro-Apps into your Sails App using a hook. Each micro-app is a mini sails app that you can develop decoupled from your main apps, which you then inject using this util.](#micro-apps---inject-self-contained-micro-apps-into-your-sails-app-using-a-hook-each-micro-app-is-a-mini-sails-app-that-you-can-develop-decoupled-from-your-main-apps-which-you-then-inject-using-this-util)
 - [Sponsors](#sponsors)
 - [License](#license)
 
@@ -35,6 +34,9 @@ A collection of awesome things regarding [Sails](https://sailsjs.com) 1.0 framew
  - [Autoreload](https://github.com/sgress454/sails-hook-autoreload) - Sails JS hook to autoreload controllers and models when changed.
  - [Api Analytics](https://github.com/sailshq/sails-hook-apianalytics) - A Sails hook for logging detailed request metadata and monitoring your API.
  - [Micro Apps](https://github.com/emahuni/sails-util-micro-apps) - Inject self-contained Micro-Apps into your Sails App using a hook. Each micro-app is a mini sails app that you can develop decoupled from your main apps, which you then inject using this util.
+ - [Micro Apps](https://github.com/emahuni/sails-util-micro-apps) - Inject self-contained Micro-Apps into your Sails App using a hook. Each micro-app is a mini sails app that you can develop decoupled from your main apps, which you then inject using this util.
+ - [Request Validate](https://github.com/JohnKimDev/sails-hook-req-validate) - Ultimate Request Validator Hook for SailsJS
+
 ---
 
 # Sponsors
