@@ -32,6 +32,7 @@ A collection of awesome things regarding [Sails](https://sailsjs.com) framework.
   - [Cron](https://github.com/ghaiklor/sails-hook-cron) - Sails hook for running cron tasks
   - [JSON Web Token](https://github.com/robophil/sails-hook-jsonwebtoken) - A sails hook for easily working with jsonwebtoken https://github.com/auth0/node-jsonwebtoken
   - [Autoreload](https://github.com/sgress454/sails-hook-autoreload) - Sails JS hook to autoreload controllers and models when changed.
+  - [Api Analytics](https://github.com/sailshq/sails-hook-apianalytics) - A Sails hook for logging detailed request metadata and monitoring your API.
 
 ---
 
