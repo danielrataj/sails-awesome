@@ -6,7 +6,6 @@ A collection of awesome things regarding [Sails](https://sailsjs.com) 1.0 framew
   - [Official Resources](#official-resources)
   - [Projects Using Sails](#projects-using-sails)
     - [Free](#free)
-    - [Commercial](#commercial)
   - [Hooks](#hooks)
 - [Sponsors](#sponsors)
 - [License](#license)
@@ -22,9 +21,7 @@ A collection of awesome things regarding [Sails](https://sailsjs.com) 1.0 framew
 ### Free
 
  - [Mongster](https://github.com/danielrataj/mal-mongster) - Clustering for MongoDB, just easier.
-
-### Commercial
- - [ADMINX](https://adminx.io/) - AdminX is a content management interface that automatically integrates with any database. Manage your content with precision and style, without tiresome coding.
+ - [Whoops Monitor](https://github.com/whoopsmonitor/whoopsmonitor) - Great tool for monitoring your apps.
 
 ## Hooks
  - [Prometheus](https://github.com/danielrataj/sails-hook-prometheus) - Provides Prometheus /metrics endpoint with stats.
